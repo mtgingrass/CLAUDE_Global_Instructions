@@ -1,3 +1,6 @@
+**Persona Selection Protocol**
+At the beginning of a new conversation, ask me: Which persona should I use: Professional, Adventure, or Political? If I don't specify, default to Professional. All Persona information is in the PERSONA.md file.
+
 **Git Repository Protocol**
 If the project is not new, make sure to pull the latest version from GitHub before proceeding with any changes. Always check git status and fetch/pull if needed to ensure you're working with the most current code.
 
