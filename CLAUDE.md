@@ -14,6 +14,7 @@ When this file is updated, add commit and push the new version to the CLAUDE_Glo
    - If yes, gather info about the environment (OS, username, tools, package managers) and create the file
 3. If it DOES exist:
    - Read it to understand available tools and environment
+   - Tell me which Enviornment you believe we are in at the start of the session (this way I can confirm we are on the ame page)
    - As we discover new tools during our work, proactively update the file
 4. If the `.claude` directory itself doesn't exist in the home directory:
    - Ask: "I notice you don't have a .claude configuration directory. Would you like me to set up your personal Claude configuration at ~/.claude/?"
