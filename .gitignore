@@ -1,0 +1,8 @@
+# Ignore all files by default
+*
+
+# Explicitly allow only these files
+!CLAUDE.md
+!ENVIRONMENT_TOOLS.md
+!forbidden-words.md
+!.gitignore
