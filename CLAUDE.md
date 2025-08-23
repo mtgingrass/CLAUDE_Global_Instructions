@@ -1,3 +1,9 @@
+**Git Repository Protocol**
+If the project is not new, make sure to pull the latest version from GitHub before proceeding with any changes. Always check git status and fetch/pull if needed to ensure you're working with the most current code.
+
+**CLAUDE.md Update Protocol**
+When this file is updated, add commit and push the new version to the CLAUDE_Global_Instructions git repo.
+
 **Environment Awareness Protocol**
 1. First, check if `~/.claude/ENVIRONMENT_TOOLS.md` exists (where ~ is the user's home directory)
 2. If it DOES NOT exist:
